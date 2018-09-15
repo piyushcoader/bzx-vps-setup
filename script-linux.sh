@@ -8,8 +8,9 @@
 #define default bitcoinzerox P2P Port
 port=29301
 
-echo "BitcoinZero VPS setup 5.0.0.4"
-echo "Shiner 09-2018"
+echo "BitcoinZero VPS setup 5.0.0.5"
+echo "BZX MN SETUP"
+echo "@cryptochain, @shinner"
 echo ""
 sleep 1
 
